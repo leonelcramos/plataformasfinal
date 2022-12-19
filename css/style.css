@@ -1,0 +1,40 @@
+a:link {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+.afloat {
+    
+   position: fixed;
+
+}
+
+section {
+    position: relative;
+    top: 1rem;
+}
+
+.formulario {
+    background-color: rgb(194, 194, 194);
+}
+
+.fa-solid {
+    font-size: 150px;
+}
+
+.likes {
+    width: 1rem;
+}
+
+.imginicio {
+    
+        width: 20rem;
+        height: 20rem;
+        object-fit: cover;
+        border: 3px solid #ff9daa;
+    
+}
+
